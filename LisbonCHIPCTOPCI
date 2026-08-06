@@ -72,12 +72,12 @@
 <div class="container">
 
     <!-- Event Logo -->
-    logo.png
+    LogoMeeting.jpg
 
     <!-- Event Video -->
     <div class="video-container">
         <video controls>
-            event-video.mp4
+            SeeYouAtTheMeeting.MP4
             Your browser does not support the video tag.
         </video>
     </div>
@@ -99,7 +99,7 @@
     </div>
 
     <!-- Program Button -->
-    program.pdf
+    SiteLisbonCHIPandCTOmeeting2026_08_02.pdf
        Program
     </a>
 
